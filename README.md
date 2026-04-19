@@ -11,10 +11,10 @@ A sleek, minimalist portfolio website for a Data Analyst, featuring a modern des
 ## Getting Started
 To view the portfolio locally:
 1. Clone the repository.
-2. Open `portfolio-site/index.html` in your web browser.
+2. Open `docs/index.html` in your web browser.
 
 ## Project Structure
-- `portfolio-site/`: Contains the website source code.
+- `docs/`: Contains the website source code.
   - `index.html`: Main structure.
   - `style.css`: Styling and theme transitions.
   - `script.js`: Theme toggle functionality.
